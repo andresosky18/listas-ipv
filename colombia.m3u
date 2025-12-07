@@ -1,0 +1,487 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/peru1.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/peru1.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/mexico1.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/mexico1.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/chile1.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/chile1.xml"
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol HD 
+http://181.78.7.90:12500/play/a06b/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Caracol HD
+http://38.51.234.11:8888/play/a0gg
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",Caracol HD2
+http://179.1.68.245:7600/play/a058/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",RCN
+http://181.119.66.250:2222/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",RCN HD
+http://129.222.202.191:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/330px-CanalRCN2023.png",RCN TDT
+http://181.78.19.125:9096/play/a01h
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/RCN_HD2_2023.png/500px-RCN_HD2_2023.png",RCN TDT2
+http://181.174.231.146:18000/play/a07e
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/330px-Logotipo_de_TV_Azteca.svg.png",Azteca 7 
+http://45.5.119.43:4000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/330px-Logotipo_de_TV_Azteca.svg.png",Azteca 7 
+http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logotipo_de_TV_Azteca.svg/330px-Logotipo_de_TV_Azteca.svg.png",Azteca 7 
+http://103.111.40.242:9999/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/543px-Canal_5_2016.svg.png",Canal 5
+http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241",WIN SPORT
+http://95.134.238.75:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241",WIN SPORT HD
+http://190.61.55.34:2401/play/win/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241s",WIN SPORT HD
+http://181.78.19.125:9096/play/a02q
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240729163241s ",Win Sport
+http://190.90.154.125:8001/play/a0gg/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT + HD
+http://181.174.231.146:18000/play/a0ih
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT + HD2
+http://181.78.83.106:8081/play/a05f
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",WIN SPORT + HD3
+http://8.242.189.218:9000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031751&path-prefix=es",Win Sports+ HD
+http://190.90.154.125:8001/play/a0eb/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS FHD
+http://190.108.89.228:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS FHD 1
+http://200.60.41.205:8000/play/a09a
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS1 HD 
+http://38.199.6.1:17001/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400",DIRECTV SPORTS1 HD 
+http://38.187.3.110:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest/scale-to-width-down/1000?cb=20221114123734",DIRECTV SPORTS 2 FHD
+http://179.1.68.245:7600/play/a098/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DSports2.png/revision/latest/scale-to-width-down/1000?cb=20221114123734",DIRECTV SPORTS 2 FHD
+http://201.182.248.146:11011/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/270px-ESPN_Deportes.svg.png",ESPN DEPORTES
+http://103.111.40.242:9999/play/a017/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/270px-ESPN_Deportes.svg.png",ESPN MX
+http://201.174.175.3:8000/play/a0oo/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/270px-ESPN_Deportes.svg.png",ESPN 2 MX HD
+http://45.186.107.173:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png",ESPN Premium HD
+http://38.51.234.11:8888/play/a0ft
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN SUR
+http://45.173.72.26:2072/play/a0bn
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN
+http://190.90.154.125:8001/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN MX
+http://45.186.107.173:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN CO
+http://179.1.68.245:7600/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN CO
+http://179.1.68.245:7600/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN HD
+http://181.174.231.146:18000/play/a0ia
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/id9erx1610288475.png",ESPN CHILE HD
+http://38.51.234.11:8888/play/a0db
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2
+http://95.134.238.75:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2
+http://45.173.72.26:2072/play/a05d
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2 HD
+http://200.12.41.194:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2 latin
+http://152.200.150.150:8000/play/a0ka/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/1000?cb=20200105155601&path-prefix=es",ESPN 2 HD MX
+http://45.186.107.173:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es",ESPN 3
+http://45.173.72.26:2072/play/a05g
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es",ESPN 3 HD
+http://38.51.234.11:8888/play/a0g9
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es",ESPN 3 PANAMA
+http://179.33.98.35:20035/play/a007
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es",ESPN 3 MX
+http://45.186.106.220:5550/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN 4
+http://45.173.72.26:2072/play/a0bx
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN 4HD
+http://38.51.234.11:8888/play/a0fp
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN 4 PANAMA
+http://179.33.98.35:20035/play/a00l
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/330px-ESPN_4_logo.svg.png",ESPN 4
+http://45.173.72.26:2072/play/a05i
+http://45.186.106.220:5550/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png",ESPN 5HD
+http://152.200.150.150:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",ESPN 6
+http://181.174.231.146:18000/play/a0jj
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",ESPN 6HD
+http://179.1.68.245:7600/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",ESPN 6HD
+http://38.51.234.11:8888/play/a0g8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",ESPN 6 PANAMA
+http://179.33.98.35:20035/play/a008
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/330px-ESPN_6_logo.svg.png",ESPN 6 MX
+http://45.186.106.220:5550/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/330px-ESPN_7_logo.svg.png",ESPN 7
+http://181.174.231.146:18000/play/a0gz
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/330px-ESPN_7_logo.svg.png",ESPN 7 HD
+http://179.1.68.245:7600/play/a084/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/330px-ESPN_7_logo.svg.png",ESPN 7 HD MX
+http://45.186.106.220:5550/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/270px-Fox_Sports_Argentina_2023.svg.png",Fox Sports HD
+http://181.209.95.30:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/270px-Fox_Sports_2_Argentina_2023.svg.png",FOX SPORT 2
+http://181.209.95.30:8000/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/270px-Fox_Sports_3_Argentina_2023.svg.png",Fox Sports 3 HD
+http://181.209.95.30:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest?cb=20140409052254",Claro Sports #24
+http://190.90.154.125:8001/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/500px-TNT_Sports_Premium_%28Argentina%29.png",TNT Sports Premiun HD
+http://190.90.154.125:8001/play/a0ht/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/DeporTV_%282020%29.png/revision/latest/scale-to-width-down/300?cb=20210101172130&path-prefix=es",DeporTV
+http://181.209.95.30:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/480px-GolTV_logo.svg.png",GolTV
+http://38.210.3.64:8090/play/a0gv
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/480px-GolTV_logo.svg.png",GolTV
+http://38.199.5.160:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es",TyC Sports HD
+http://181.209.95.30:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png",TNT Sports HD
+http://181.209.95.30:8000/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Canal_24_Horas.png/330px-Logo_Canal_24_Horas.png",Canal 24 Horas
+http://190.90.154.125:8001/play/a0hx/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/500px-C5N_2017_Alternate.svg.png",C5N
+http://181.209.95.30:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/330px-CNN_International_logo.svg.png",CNN
+http://181.209.95.30:8000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/300px-TN_todo_noticias_logo.svg.png",TN
+http://181.209.95.30:8000/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/330px-LN%2B.png",La Nacion TV
+http://181.209.95.30:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/330px-Cr%C3%B3nica_TV_logotipo_%282016%29.png",Cronica
+http://181.209.95.30:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Canal_Congreso_2022_B.png/revision/latest?cb=20220807180058&path-prefix=es",Canal del Congreso
+http://190.90.154.125:8001/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/CanalInstitucionalColombia2025.png/revision/latest?cb=20250801185503&path-prefix=es",Canal Institucional
+http://190.90.154.125:8001/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Se%C3%B1al_Colombia_2013.png/revision/latest?cb=20210501162756&path-prefix=es",Senal Colombia
+http://190.90.154.125:8001/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BabyFirstTV.png/revision/latest?cb=20211014021238&path-prefix=es",BabyFirst
+http://190.90.154.125:8001/play/a042/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 
+http://190.90.154.125:8001/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/330px-2024_Disney_Channel_text_logo.svg.png",Disney Channel
+http://190.90.154.125:8001/play/a0g7/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/500px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick Jr
+http://190.90.154.125:8001/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon 
+http://190.90.154.125:8001/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon HD
+http://190.90.154.125:8001/play/a0hv/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/330px-Babytvv.png",Baby TV
+http://181.209.95.30:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
+http://181.209.95.30:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/330px-2024_Disney_Jr._Logo.svg.png",DISNEY JR
+http://181.209.95.30:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Discovery_Kids_2021_2D_Gradient.svg/330px-Discovery_Kids_2021_2D_Gradient.svg.png",Discovery Kids
+http://181.209.95.30:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pakapaka_logotipo_%282010-2016%29.png/375px-Pakapaka_logotipo_%282010-2016%29.png",Pakapaka
+http://181.209.95.30:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/330px-Trece.svg.png  ",13 MAX
+http://181.209.95.30:8000/play/a0b6/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/266px-Canal_26_logo_%282022%29.svg.png  ",26TV
+http://181.209.95.30:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.ytimg.com/vi/B8RTUwvrKJA/maxresdefault.jpg  ",9 link
+http://181.209.95.30:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png  ",A&E
+http://181.209.95.30:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png  ",A&E HD
+http://190.90.154.125:8001/play/a0h9/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/rarter/images/7/7d/A%25_26E_Mundo.webp/revision/latest?cb=20231130020844",A&E Mundo
+http://190.90.154.125:8001/play/a0im/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/330px-A24_%282025%29.svg.png  ",A24
+http://181.209.95.30:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/500px-Logo_AM-sports-2019.svg.png  ",AM Sports
+http://181.209.95.30:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/330px-AMC_logo_2019.svg.png  ",AMC
+http://181.209.95.30:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/330px-AMC_logo_2019.svg.png  ",AMC HD
+http://190.90.154.125:8001/play/a0hc/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/330px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png  ",AMERICA
+http://181.209.95.30:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/330px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png  ",America TV PY
+http://190.90.154.125:8001/play/a08c/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png  ",Animal Planet
+http://190.90.154.125:8001/play/a0il/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/500px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png  ",CHV HD
+http://190.90.154.125:8001/play/a0hs/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Canal_A_logo.png/330px-Canal_A_logo.png  ",Canal a
+http://181.209.95.30:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/330px-Canal1Colombia2024.svg.png  ",CANAL UNO
+http://190.66.7.162:2112/play/a004/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/330px-Canal1Colombia2024.svg.png  ",Canal Uno
+http://181.174.231.146:18000/play/a06h
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",Canal Caracol
+http://8.242.189.218:9000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png  ",Canal de la Ciudad
+http://181.209.95.30:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/500px-Claro_TV_wordmark.svg.png  ",Canal Claro
+http://190.90.154.125:8001/play/a080/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/330px-Canal_2_%28Las_Estrellas_2017%29.svg.png  ",Canal Las Estrellas
+http://190.90.154.125:8001/play/a096/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/225px-Isotipo_eltrece_2016.png  ",Canal 13 HD
+http://190.90.154.125:8001/play/a0h6/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",CARACOL
+http://190.66.7.162:2112/play/a029/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/9/91/Caracol_2019.png/revision/latest?cb=20200209131121&path-prefix=es",CARACOL HD
+http://181.78.7.90:12500/play/a06b/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png/revision/latest?cb=20210218135235&path-prefix=es",CARACOL HD2
+http://190.102.123.28:8097/play/a0d2/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/330px-Cinemax_%28Yellow%29.svg.png  ",CINEMAX
+http://181.209.95.30:8000/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/300px-Cine.Ar_logo.svg.png  ",Cine.AR
+http://181.209.95.30:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/330px-CinecanalLA.png  ",Cinecanal HD
+http://181.209.95.30:8000/play/a07b/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/330px-Comedy_Central_2018.svg.png  ",Comedy Central HD
+http://181.209.95.30:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://cdn.mitvstatic.com/channels/31306706-f1a3-4941-afe0-6082c6201c36_m.jpg  ",E Entertainment
+http://190.90.154.125:8001/play/a08l/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/330px-Canal_2_%28Las_Estrellas_2017%29.svg.png  ",El Canal de las Estrellas
+http://181.209.95.30:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/180px-El_Gourmet_logo.svg.png  ",El Gourmet
+http://181.209.95.30:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/225px-Isotipo_eltrece_2016.png  ",El trece HD
+http://181.209.95.30:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/330px-Logo_del_canal_Encuentro.svg.png  ",Encuentro
+http://181.209.95.30:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/EUROPAEUROPALOGO2016.png/180px-EUROPAEUROPALOGO2016.png  ",Europa Europa
+http://181.209.95.30:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/250px-FX_International_logo.svg.png  ",FX
+http://190.90.154.125:8001/play/a0gr/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/250px-FX_International_logo.svg.png  ",FX HD
+http://181.209.95.30:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/300px-Film%26Arts2016.png  ",Film & Arts HD
+http://181.209.95.30:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/330px-2019_Discovery_logo.svg.png  ",Discovery Channel
+http://190.90.154.125:8001/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/480px-2015_Discovery_theater_HD_logo.svg.png  ",Discovery Theater HD
+http://190.90.154.125:8001/play/a0hq/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/270px-Discovery_Turbo_logo.svg.png  ",Discovery Turbo
+http://190.90.154.125:8001/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/480px-World_Discovery_HD_logo.svg.png  ",Discovery World HD
+http://190.90.154.125:8001/play/a0hf/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/330px-Discovery_Home_%26_Health_logo.svg.png  ",Home and Health
+http://190.90.154.125:8001/play/a083/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png  ",Esne TV
+http://190.90.154.125:8001/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/300px-Food_Network_logo.svg.png  ",Food Network
+http://190.90.154.125:8001/play/a0hz/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/330px-HBO_Family.svg.png  ",HBO Family
+http://181.209.95.30:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/330px-HBO_Family.svg.png  ",HBO Family HD
+http://190.90.154.125:8001/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png  ",HBO
+http://181.209.95.30:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png  ",HBO HD
+http://190.90.154.125:8001/play/a0he/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/330px-HBO2_logo.svg.png  ",HBO 2
+http://181.209.95.30:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/250px-HBO_Mundi.svg.png  ",HBO Mundi
+http://181.209.95.30:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/250px-Logohboplus2019.svg.png  ",HBO Plus
+http://181.209.95.30:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/330px-HBO_Pop.svg.png  ",HBO POP
+http://181.209.95.30:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/330px-HBO_Pop.svg.png  ",HBO POP HD
+http://190.90.154.125:8001/play/a0ic/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/330px-HBO_Signature.svg.png  ",HBO Signature
+http://181.209.95.30:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/330px-HBO_Xtreme.svg.png  ",HBO Xtreme
+http://181.209.95.30:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/330px-HBO_Xtreme.svg.png  ",HBO Xtreme HD
+http://190.90.154.125:8001/play/a0i4/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/330px-%C2%A1HOLA%21TVlogo.jpg  ",HOLA TV HD
+http://190.90.154.125:8001/play/a0hn/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/330px-HGTV_US_Logo_2015.svg.png  ",HGTV
+http://181.209.95.30:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png  ",HISTORY
+http://181.209.95.30:8000/play/a0ai/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png  ",History Channel 
+http://190.90.154.125:8001/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png  ",History Channel HD
+http://181.174.231.146:18000/play/a0i5
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/250px-History2_logo_%282022%29.svg.png  ",History 2
+http://181.174.231.146:18000/play/a0cb
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheJIpsuFalYCrsdza4ZePpJErhmPRbogKH61gFRqM2ibJNZOldwOGxEAvaeDBKguGosLdrXrzQ-InUzqD6gHOcURVlxwEy5WRw6lpk6AKbHt7-s3tpPDIIHCnvakIZOPxSVeZBvji1BgA/s320/ID-logo_2018.png  ",ID
+http://190.90.154.125:8001/play/a07y/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheJIpsuFalYCrsdza4ZePpJErhmPRbogKH61gFRqM2ibJNZOldwOGxEAvaeDBKguGosLdrXrzQ-InUzqD6gHOcURVlxwEy5WRw6lpk6AKbHt7-s3tpPDIIHCnvakIZOPxSVeZBvji1BgA/s320/ID-logo_2018.png  ",ID HD
+http://181.174.231.146:18000/play/a0i9
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://ipuctv.org.co/wp-content/uploads/2023/12/1.1.1.png  ",IPUC TV
+http://190.90.154.125:8001/play/a0fb/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/180px-Htv_logo.svg.png  ",HTV
+http://181.209.95.30:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/La_Kalle_Colombia_2025_logo.svg/500px-La_Kalle_Colombia_2025_logo.svg.png  ",LA KALLE
+http://181.174.231.146:18000/play/a07p
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/330px-La_Red_Logotipo_2021.svg.png  ",La Red HD
+http://181.174.231.146:18000/play/a0ip
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red%2B_2018_logo.png/330px-Red%2B_2018_logo.png  ",La Red
+http://190.90.154.125:8001/play/a0ie/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/330px-Canal_2_%28Las_Estrellas_2017%29.svg.png  ",Las Estrellas HD
+http://181.174.231.146:18000/play/a0ic
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/330px-Canal_2_%28Las_Estrellas_2017%29.svg.png  ",Las Estrellas HD
+http://190.90.154.125:8001/play/a0i0/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/250px-Latina_Television_-_Logotipo.png  ",Latina HD
+http://181.174.231.146:18000/play/a0jl
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png  ",Lifetime
+http://181.174.231.146:18000/play/a0in
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png  ",Lifetime
+http://190.90.154.125:8001/play/a043/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/330px-Logo_Lifetime_2020.svg.png  ",Lifetime
+http://181.209.95.30:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/663px-Lapacho_Canal_11_%28Logo_2018%29.png/revision/latest?cb=20191120204450",LAPACHO
+http://181.209.95.30:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/250px-Love_Nature_logo_%282025%29.svg.png  ",Love Nature
+http://181.174.231.146:18000/play/a0hb
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/51/LogoMega2015.png/revision/latest/scale-to-width-down/130?cb=20151117223345&path-prefix=es",MEGA HD
+http://190.90.154.125:8001/play/a0hw/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/330px-MTV-2021.svg.png  ",MTV
+http://190.90.154.125:8001/play/a0hj/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/330px-MTV-2021.svg.png  ",MTV
+http://190.90.154.125:8001/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png  ",MTV
+http://181.209.95.30:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png  ",MTV
+http://181.209.95.30:8000/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/330px-MTV_Live_2021_logo.svg.png  ",MTV Live
+http://190.90.154.125:8001/play/a0hg/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://e7.pngegg.com/pngimages/859/451/png-clipart-metrotv-indonesia-television-channel-news-metro-city-television-text.png",Metro
+http://181.209.95.30:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/62/NationalGeographicWildLA.png/revision/latest/scale-to-width-down/130?cb=20180831215239&path-prefix=es",NAT GEO
+http://181.209.95.30:8000/play/a0b8/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/62/NationalGeographicWildLA.png/revision/latest/scale-to-width-down/130?cb=20180831215239&path-prefix=es",NAT GEO
+http://45.5.151.251:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png ",Nat Geo
+http://190.90.154.125:8001/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/500px-Nick_Jr._logo_2023_%28outline%29.svg.png",NICK
+http://181.209.95.30:8000/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/480px-RCN_Nuestra_Tele_logo.svg.png  ",NUESTRA TELE
+http://190.66.7.162:2112/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/188px-Pasiones_Tv_logo.svg.png  ",PASIONES
+http://181.209.95.30:8000/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/188px-Pasiones_Tv_logo.svg.png  ",Pasiones HD
+http://190.90.154.125:8001/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/tvficticia/images/7/7f/Logo_tele_posadas_HD.png/revision/latest/scale-to-width-down/185?cb=20220223124218&path-prefix=es",POSADAS
+http://181.209.95.30:8000/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/500px-Paramount_Plus.svg.png  ",Paramount HD
+http://181.209.95.30:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/330px-Paramount_Network_2024.svg.png  ",Paramount HD
+http://190.90.154.125:8001/play/a0h8/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.artear.com/assets/images/logos/40x40/e53d3-logo2023.png  ",Quiero Musica
+http://181.209.95.30:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/330px-Rai_Italia_-_Logo_2017.svg.png  ",RAI Italia
+http://181.209.95.30:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Rcn_2020.jpg/revision/latest?cb=20210502002739&path-prefix=es",Canal RCN
+http://8.242.189.218:9000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/2e/Rcn_2020.jpg/revision/latest?cb=20210502002739&path-prefix=es",RCN HD
+http://190.66.7.162:2112/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/1/15/RCNHD2-NewLogo2023.png/revision/latest?cb=20230623165814",RCN HD 2
+http://181.78.7.90:12500/play/a06l/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/CanalRCNNovelas2019.png/revision/latest?cb=20210307131301&path-prefix=es",RCN Novelas
+http://201.230.137.204:8000/play/a0ff/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/330px-RCN_Novelas_logo_2019.png  ",RCN Novelas
+http://190.90.154.125:8001/play/a07x/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SNT_2013_logotype.png/330px-SNT_2013_logotype.png  ",SNT
+http://181.209.95.30:8000/play/a0al/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://yt3.googleusercontent.com/DMH8e3yt2kspjihH8Ajvu5JcK_yKrF07MauIdz8cpamz8t6Ra6Vfcf0MxOasF4nXzIPFB8L0=s900-c-k-c0x00ffffff-no-rj",SOMOS UNO
+http://181.209.95.30:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sony_Entertainment_Television_logo.png/250px-Sony_Entertainment_Television_logo.png  ",SONY HD
+http://181.209.95.30:8000/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sony_Entertainment_Television_logo.png/250px-Sony_Entertainment_Television_logo.png  ",Sony
+http://190.90.154.125:8001/play/a057/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/250px-Sony_Movies_Logo.svg.png  ",SONY MOVIE
+http://181.209.95.30:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png  ",Space
+http://190.90.154.125:8001/play/a0gn/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/330px-SpaceLogo.svg.png  ",Space HD
+http://181.209.95.30:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/330px-Star_Channel_2020.svg.png  ",STAR CHANNEL
+http://190.90.154.125:8001/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/330px-Star_Channel_2020.svg.png  ",Star Channel HD
+http://181.209.95.30:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgLb9NMG1n1mSYL0MoRxJ0alxkWOcaChEQg&s",Sin Limites
+http://190.90.154.125:8001/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/500px-StudioUniversal2016.png  ",Studio Universal
+http://181.209.95.30:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/500px-StudioUniversal2016.png  ",Studio Universal HD
+http://190.90.154.125:8001/play/a0gt/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/180px-TCM_Latam_logo.svg.png  ",TCM
+http://190.90.154.125:8001/play/a03v/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/180px-TCM_Latam_logo.svg.png  ",TCM
+http://181.209.95.30:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/330px-TLC_logo_%282023%29.svg.png  ",TLC
+http://190.90.154.125:8001/play/a094/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/250px-TNT_Logo_2016.svg.png  ",TNT
+http://190.90.154.125:8001/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/250px-Warner_TV_Italy.svg.png  ",TNT HD
+http://181.209.95.30:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/93/TNTNovelas.png/revision/latest/scale-to-width-down/103?cb=20231116165259&path-prefix=es",TNT Novelas
+http://190.90.154.125:8001/play/a0i7/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://static.wikia.nocookie.net/tvcable/images/9/93/TNTNovelas.png/revision/latest/scale-to-width-down/103?cb=20231116165259&path-prefix=es",TNT Novelas HD
+http://190.90.154.125:8001/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/93/TNTNovelas.png/revision/latest/scale-to-width-down/103?cb=20231116165259&path-prefix=es",TNT Novelas HD
+http://181.209.95.30:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://static.wikia.nocookie.net/tvcable/images/a/ae/TNT_Series_2016.png/revision/latest/scale-to-width-down/104?cb=20161130195706&path-prefix=es",TNT Series HD
+http://190.90.154.125:8001/play/a0hd/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/250px-TNT_Series_2025.svg.png  ",TNT Series HD
+http://181.209.95.30:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/330px-Canal_tro_logo.PNG  ",TRO
+http://190.90.154.125:8001/play/a051/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/500px-TV%2B_%282018%29.png  ",TV+ HD
+http://190.90.154.125:8001/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/330px-TVE.svg.png  ",TVE
+http://190.90.154.125:8001/play/a041/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/330px-TVE.svg.png  ",TVE
+http://181.209.95.30:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/330px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png  ",TV PUBLICA
+http://181.209.95.30:8000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/330px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png  ",TVN HD
+http://190.90.154.125:8001/play/a0hr/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Teleantioquia-2024Nuevo.png/500px-Teleantioquia-2024Nuevo.png  ",Teleantioquia
+http://190.90.154.125:8001/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/300px-Telecaf%C3%A9_logo.svg.png  ",Telecafe
+http://190.90.154.125:8001/play/a0gp/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Telecaribe_%28nuevo_logo_con_color%29.png/500px-Telecaribe_%28nuevo_logo_con_color%29.png  ",Telecaribe
+http://190.90.154.125:8001/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/330px-Televisi%C3%B3n_Federal_Logo.svg.png  ",Telefe HD
+http://181.209.95.30:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/330px-Telemundo_logo_2018.svg.png  ",Telemundo
+http://190.90.154.125:8001/play/a099/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Telemundo_Studios_%282024%29.svg/500px-Telemundo_Studios_%282024%29.svg.png  ",TELEMUNDO
+http://181.209.95.30:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/LOGO-TELEPACIFICO.png/600px-LOGO-TELEPACIFICO.png  ",Telepacifico
+http://190.90.154.125:8001/play/a05d/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/330px-Trece.svg.png  ",Trece
+http://190.90.154.125:8001/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://e7.pngegg.com/pngimages/598/22/png-clipart-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television.png",TLNovelas
+http://181.209.95.30:8000/play/a0bb/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/TyC_Sports_1995.png/500px-TyC_Sports_1995.png  ",TyC
+http://190.90.154.125:8001/play/a08q/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/345px-Universal_TV_logo.svg.png  ",UNIVERSAL
+http://181.209.95.30:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/345px-Universal_TV_logo.svg.png  ",UNIVERSAL CHANNEL HD
+http://190.90.154.125:8001/play/a0ha/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/345px-Universal_TV_logo.svg.png  ",Universal
+http://190.90.154.125:8001/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/330px-PyW6vij-.jpg  ",ViaX
+http://190.90.154.125:8001/play/a095/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/330px-Warner_Bros._logo_2023.svg.png  ",Warner
+http://190.90.154.125:8001/play/a08k/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/250px-Warner_TV_Italy.svg.png  ",WARNER
+http://181.209.95.30:8000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TpmeLVvfRgRt57eEnafP7rViLBeNIElAtQ&s",Zona Latina
+http://190.90.154.125:8001/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest?cb=20210501194343&path-prefix=es",Zoom TV
+http://190.90.154.125:8001/play/a050/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/330px-Ciudad_magazine_logo.png  ",Ciudad Magazine
+http://181.209.95.30:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png  ",T5 SATELITAL
+http://181.209.95.30:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TelefuturoLogo2022.png/500px-TelefuturoLogo2022.png  ",TELEFUTURO
+http://181.209.95.30:8000/play/a0am/index.m3u8
